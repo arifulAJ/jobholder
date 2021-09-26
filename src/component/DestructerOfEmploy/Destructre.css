@@ -1,0 +1,10 @@
+.images img{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+}
+.cart{
+  background-color: rgba(255, 255, 255, 0.678);
+    border: 1px solid rgb(202, 199, 193);
+    border-radius: 10px;
+}

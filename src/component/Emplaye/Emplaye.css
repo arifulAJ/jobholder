@@ -1,0 +1,11 @@
+.divideByGrid{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: center;
+   
+   
+   
+}
+.gaping{
+    grid-gap:10px
+}

@@ -1,0 +1,102 @@
+const data=[
+    {
+        name:"sanju ray",
+        role:"frontend developer ",
+        age:25,
+        id:1001,
+        country:"india",
+        salary:25000,
+        img:'https://pbs.twimg.com/profile_images/1355769932797992960/l8NREz8E_400x400.jpg'
+    },
+    {
+        name:"habib uddin",
+        role:"frontend developer ",
+        age:37,
+        id:1002,
+        country:"bangladesh",
+        salary:30000,
+        img:'https://yt3.ggpht.com/ytc/AKedOLT5Y4QxvHam4uSFXFyljPXeVXsEXBEKLU7qAO09=s900-c-k-c0x00ffffff-no-rj'
+    },
+    {
+        name:"dipok ray",
+        role:"fullstack developer ",
+        age:35,
+        id:1003,
+        country:"india",
+        salary:37000,
+        img:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deepak_Chahar.jpg/1200px-Deepak_Chahar.jpg'
+    },
+    {
+        name:"akib jabed",
+        role:"frontend developer ",
+        age:27,
+        id:1004,
+        country:"bangladesh",
+        salary:28000,
+        img:'https://avatars.githubusercontent.com/u/14263228?v=4'
+    },
+    {
+        name:"asif ikbla",
+        role:"backend developer ",
+        age:25,
+        id:1005,
+        country:"bangladesh",
+        salary:35000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuQRuBc5F_HWMLkCVzJWzSnGWjo9zseND-A&usqp=CAU'
+    },
+    {
+        name:"hridoy khan",
+        role:"fullstack developer ",
+        age:25,
+        id:1005,
+        country:"bangladesh",
+        salary:29000,
+        img:'https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/286900/286907.1.jpg'
+    },
+    {
+        name:"dsvide jon",
+        role:"frontend developer ",
+        age:36,
+        id:1006,
+        country:"america",
+        salary:40000,
+        img:'https://cdnb.artstation.com/p/users/avatars/000/436/131/large/daf7111e311243817a9c4fe6959c1116.jpg?1533495578'
+    },
+    {
+        name:"kaiser ali",
+        role:"backend developer ",
+        age:28,
+        id:1007,
+        country:"pakistan",
+        salary:33000,
+        img:'https://i1.sndcdn.com/avatars-000074366411-jil5dd-t240x240.jpg'
+    },
+    {
+        name:"simanto roy",
+        role:"frontend developer ",
+        age:32,
+        id:1008,
+        country:"india",
+        salary:25000,
+        img:'https://web.uri.edu/sislab/files/Hasan-300x300-1.jpg'
+    },
+    {
+        name:"axer jame",
+        role:"fullstack developer ",
+        age:35,
+        id:1009,
+        country:"north america",
+        salary:45000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Luw_oyZTRL2l54isS9pvCtw14XQS2R8DBeqLYKzdthJxQgIcWsOh-UTugh7x-dCtGLc&usqp=CAU'
+    },
+    {
+        name:"saju ray",
+        role:"backend developer ",
+        age:29,
+        id:10010,
+        country:"india",
+        salary:35000,
+        img:'https://pbs.twimg.com/profile_images/1414857476617347072/FpHcypK8.jpg'
+    },
+]
+console.log(data);
