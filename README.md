@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Website mockup with different devices
+<img src="https://i.ibb.co/rFKm1S9/Screenshot-26.png" /> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## techonology are uses 
+<li> JavaScript</li>
+<li> React.js</li>
 
-## Available Scripts
+<li> Html</li>
+<li> CSS</li>
 
-In the project directory, you can run:
+## live site link
+link:https://happy-golick-49fa1e.netlify.app/
 
 ### `npm start`
 
